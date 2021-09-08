@@ -1,0 +1,26 @@
+x=10
+x=100
+x=100.3
+print(type(x))
+
+x_int = 10
+print(type(x_int))
+
+x_float=100.9
+print(type(x_float))
+
+x_string="Hello !"
+print(type(x_string))
+print("abcdefg")
+
+marks_obtained=87
+total_marks=100
+percentage=(marks_obtained/total_marks)*100
+
+print(percentage,"%")
+
+x='I am a UB Student'
+print(x[7:9])
+print(x[2])
+print(x[-2])
+print(x[-1])
